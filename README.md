@@ -28,7 +28,7 @@ WHERE Year(o.orderdate) = 2014
 GROUP BY Category;
 ```
 
-Combining CTE and case statements:
+Combining CTE and case statement:
 ```
 /* Find the day of the week with the highest sales revenue and present a sorted list of each day of the week alongside its corresponding sales revenue. */
 
@@ -53,7 +53,7 @@ FROM Total_Sales_By_Date
 GROUP BY Day
 Order by Grand_Total Desc;
 ```
-Combining CTE with rank window functions:
+Combining CTE with rank window function:
 ```
 /* Determine the month with the second-highest total sales for the year 2014. */
 
