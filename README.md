@@ -1,4 +1,5 @@
-# Northwind
+# Northwind Foods Sales Dashboard
+
 Northwind Foods SQL &amp; Tableau Dashboard
 
 This data analytics project focuses on the preparation and visualization of sales data for Northwind Traders, a fictional food supplier. The Maven Analytics’ Northwind Traders Dataset was utilized for this purpose. The dataset encompasses detailed information about sales, orders, customers, products, shippers, and employees.
