@@ -15,6 +15,7 @@ The primary objective of this project repository is to provide a clear demonstra
 Joining tables and performing aggregations:
 ```
 /* Calculate the total sales revenue for each product category during the year 2014. */
+
 SELECT 
 Year(o.orderdate) As Year,
 Sum(od.unitprice*od.quantity) as Total,
@@ -55,6 +56,7 @@ Order by Grand_Total Desc;
 Combining CTE with rank window functions:
 ```
 /* Determine the month with the second-highest total sales for the year 2014. */
+
 WITH Months_Total as (
 SELECT 
 Month(o.orderdate) As Month, 
@@ -75,6 +77,7 @@ SELECT * from Ranked where Month_Rank = 2;
 Simple self join: 
 ```
 /* Generate a query that presents a comprehensive list of employees along with their corresponding managers. In cases where employees do not have managers, they should be displayed as reporting to themselves. */
+
 SELECT
 e.employeeid as 'Employee',
 e.employeeName as 'Employee Name',
