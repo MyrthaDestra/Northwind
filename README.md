@@ -11,3 +11,6 @@ The primary objective of this project repository is to provide a clear demonstra
 **[SQL Code](https://github.com/MyrthaDestra/Northwind/blob/main/Northwind%20Traders%20SQL.sql). **
 
 The tableau dashboard is located [here](https://public.tableau.com/app/profile/myrtha.destra/viz/NorthwindFoodsSalesDashboard/SalesOverview).
+
+
+![tableau](Final Tableau Screenshot.png)
