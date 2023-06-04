@@ -29,7 +29,7 @@ GROUP BY Category;
 
 Combining CTE and case statements:
 ```
-/* the day of the week with the highest sales revenue and present a sorted list of each day of the week alongside its corresponding sales revenue. */
+/* Find the day of the week with the highest sales revenue and present a sorted list of each day of the week alongside its corresponding sales revenue. */
 
 WITH Total_Sales_By_Date as (
 SELECT 
