@@ -12,5 +12,6 @@ The primary objective of this project repository is to provide a clear demonstra
 
 The tableau dashboard is located [here](https://public.tableau.com/app/profile/myrtha.destra/viz/NorthwindFoodsSalesDashboard/SalesOverview).
 
+![image](https://github.com/MyrthaDestra/Northwind/assets/134890000/c8028f11-a4a2-438d-95a7-f93ae5c637b2)
 
-![tableau](Final Tableau Screenshot.png)
+
