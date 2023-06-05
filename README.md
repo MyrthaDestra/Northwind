@@ -8,8 +8,12 @@ To begin, I established a SQL database to store the dataset and employed SQL que
 
 The primary objective of this project repository is to provide a clear demonstration of my expertise and proficiency in utilizing Tableau and SQL. 
 
+The tableau dashboard is located [here](https://public.tableau.com/app/profile/myrtha.destra/viz/NorthwindFoodsSalesDashboard/SalesOverview).
+---
+![Final Tableau Screenshot](https://github.com/MyrthaDestra/Northwind/assets/134890000/f6ad473d-30e7-41f6-9d55-0e57e4c76fd0)
+
 [SQL](https://github.com/MyrthaDestra/Northwind/blob/main/Northwind%20Traders%20SQL.sql)
-**Query Samples:**
+**Query Snippets:**
 ---
 
 Joining tables and performing aggregations:
@@ -87,9 +91,7 @@ LEFT JOIN employees m ON m.employeeID=e.reportsTo
 ORDER BY Employee;
 ```
 
-The tableau dashboard is located [here](https://public.tableau.com/app/profile/myrtha.destra/viz/NorthwindFoodsSalesDashboard/SalesOverview).
 
-![Final Tableau Screenshot](https://github.com/MyrthaDestra/Northwind/assets/134890000/f6ad473d-30e7-41f6-9d55-0e57e4c76fd0)
 
 
 
